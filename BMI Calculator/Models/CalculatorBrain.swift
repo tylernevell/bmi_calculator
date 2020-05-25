@@ -3,7 +3,6 @@
 //  BMI Calculator
 //
 //  Created by Tyler Nevell on 5/24/20.
-//  Copyright © 2020 Angela Yu. All rights reserved.
 //
 
 import Foundation
